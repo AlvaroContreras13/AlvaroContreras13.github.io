@@ -28,7 +28,7 @@ const Login = () => {
 
   return (
     <div className="login-container">
-      <h1>Iniciar Sesión</h1> 
+      <h1>Iniciar Sesión 1</h1> 
       <form onSubmit={handleSubmit}> 
         <div>
           <label>Username</label> 
